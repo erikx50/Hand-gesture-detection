@@ -7,5 +7,6 @@ Website: https://www.kaggle.com/datasets/kapitanov/hagrid
 Github: https://github.com/hukenovs/hagrid
 
 Since the full dataset is **716GB** we use the subsample set with 100 items per gesture.
+
 Subsample images download: https://sc.link/AO5l
 Subsample annotation download: https://sc.link/EQ5g
