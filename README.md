@@ -3,10 +3,10 @@
 ##HaGRID - HAnd Gesture Recognition Image Dataset
 ![alt text](https://github.com/hukenovs/hagrid/blob/master/images/hagrid.jpg?raw=true)
 
-Website: https://www.kaggle.com/datasets/kapitanov/hagrid
-Github: https://github.com/hukenovs/hagrid
+Website: https://www.kaggle.com/datasets/kapitanov/hagrid <br />
+Github: https://github.com/hukenovs/hagrid <br />
 
 Since the full dataset is **716GB** we use the subsample set with 100 items per gesture.
 
-Subsample images download: https://sc.link/AO5l
+Subsample images download: https://sc.link/AO5l <br />
 Subsample annotation download: https://sc.link/EQ5g
