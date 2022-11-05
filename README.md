@@ -1,1 +1,1 @@
-# ELE510-Project---Hand-gesture-detection
+# ELE510 Project - Hand gesture detection
