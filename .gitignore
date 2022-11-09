@@ -1,3 +1,7 @@
-/images/*
+/images/original
+
+/images/preprocessed
+
+/tf_model/*
 
 /.ipynb_checkpoints/
