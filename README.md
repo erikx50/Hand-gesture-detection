@@ -98,3 +98,4 @@ Since the combined image files are so large we could not add them to the reposit
     ├───two_up
     └───two_up_inverted
 ```
+Train_original and test_original contain the images used for training/validating and testing the model. Train_preprocessed and test_preprocessed contain the preprocessed images used by the model. The preprocessing is done in the notebook.
