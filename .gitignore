@@ -1,6 +1,7 @@
-/images/original
-
-/images/preprocessed
+/images/test_original/*
+/images/test_preprocessed/*
+/images/train_original/*
+/images/train_preprocessed/*
 
 /tf_model/*
 
