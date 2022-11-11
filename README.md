@@ -17,19 +17,84 @@ Test annotation download: https://sc.link/EQ5g <br />
 
 ## Folder structure
 Since the combined image files are so large we could not add them to the repository. The only folders that has to be added are under images. <br />
-+-- _drafts
-|   +-- begin-with-the-crazy-ideas.textile
-|   +-- on-simplicity-in-technology.markdown
-+-- _includes
-|   +-- footer.html
-|   +-- header.html
-+-- _layouts
-|   +-- default.html
-|   +-- post.html
-+-- _posts
-|   +-- 2007-10-29-why-every-programmer-should-play-nethack.textile
-|   +-- 2009-04-26-barcamp-boston-4-roundup.textile
-+-- _data
-|   +-- members.yml
-+-- _site
-+-- index.html
+```bash
+├───manual_test
+│   ├───grayscale
+│   └───rgb
+├───test_original
+│   ├───call
+│   ├───dislike
+│   ├───fist
+│   ├───four
+│   ├───like
+│   ├───mute
+│   ├───ok
+│   ├───one
+│   ├───palm
+│   ├───peace
+│   ├───peace_inverted
+│   ├───rock
+│   ├───stop
+│   ├───stop_inverted
+│   ├───three
+│   ├───three2
+│   ├───two_up
+│   └───two_up_inverted
+├───test_preprocessed
+│   ├───call
+│   ├───dislike
+│   ├───fist
+│   ├───four
+│   ├───like
+│   ├───mute
+│   ├───ok
+│   ├───one
+│   ├───palm
+│   ├───peace
+│   ├───peace_inverted
+│   ├───rock
+│   ├───stop
+│   ├───stop_inverted
+│   ├───three
+│   ├───three2
+│   ├───two_up
+│   └───two_up_inverted
+├───train_original
+│   ├───call
+│   ├───dislike
+│   ├───fist
+│   ├───four
+│   ├───like
+│   ├───mute
+│   ├───ok
+│   ├───one
+│   ├───palm
+│   ├───peace
+│   ├───peace_inverted
+│   ├───rock
+│   ├───stop
+│   ├───stop_inverted
+│   ├───three
+│   ├───three2
+│   ├───two_up
+│   └───two_up_inverted
+└───train_preprocessed
+    ├───call
+    ├───dislike
+    ├───fist
+    ├───four
+    ├───like
+    ├───mute
+    ├───ok
+    ├───one
+    ├───palm
+    ├───peace
+    ├───peace_inverted
+    ├───rock
+    ├───stop
+    ├───stop_inverted
+    ├───three
+    ├───three2
+    ├───two_up
+    └───two_up_inverted
+```
